@@ -9,6 +9,7 @@ namespace MyApplication
     {
       Console.WriteLine("I just got executed!");
       System.Console.WriteLine( "HELLOOO!!!");
+      Console.WriteLine("Welcome");
     }
 
     static void Main(string[] args)
